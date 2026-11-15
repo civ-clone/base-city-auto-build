@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-city-auto-build",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A city on Auto choosing its own next build: what it may choose, and the rules that make it choose when its build is finished, can no longer be built, or it has nothing to build.",
   "repository": "git@github.com:civ-clone/base-city-auto-build.git",
   "keywords": [
